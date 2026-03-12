@@ -1,4 +1,3 @@
-# Here is another update by Nospectators
 # Here is a new update by NoSpectators
 
 # Shipping Cost Calculator
